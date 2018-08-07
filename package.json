@@ -1,0 +1,25 @@
+{
+  "name": "reading-progress-bar",
+  "version": "1.0.0",
+  "description": "Reading progress bar, inspired from TechCrunch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BalasubramaniM/reading-progress-bar.git"
+  },
+  "keywords": [
+    "reading",
+    "progress",
+    "progressbar",
+    "techcrunch"
+  ],
+  "author": "Balasubramani M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BalasubramaniM/reading-progress-bar/issues"
+  },
+  "homepage": "https://github.com/BalasubramaniM/reading-progress-bar#readme"
+}
